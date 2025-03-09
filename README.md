@@ -4,7 +4,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Excel</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Data Analysis in Excel](https://github.com/Maher-Jaweed/Excel-/tree/main)
 - <b>Tableau</b>
 
 - <b>PowerBI</b>
