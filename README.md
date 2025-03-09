@@ -4,7 +4,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Excel</b>
-  - [Practicing Data Analysis in Excel](https://github.com/Maher-Jaweed/Excel-/tree/main)
+  - [DCF Valuation of Airbnb](https://github.com/Maher-Jaweed/DCF-Valuation-of-Airbnb)
   - [US Debt Tracker](https://github.com/Maher-Jaweed/US-Debt-Tracker-)
     
 - <b>Tableau</b>
