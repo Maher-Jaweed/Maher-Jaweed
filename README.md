@@ -5,7 +5,7 @@
 
 - <b>Excel</b>
   - [Praciting Data Analysis in Excel](https://github.com/Maher-Jaweed/Excel-/tree/main)
-  - [US Debt Tracker](https://github.com/Maher-Jaweed/Excel-/tree/main)
+  - [US Debt Tracker](https://github.com/Maher-Jaweed/US-Debt-Tracker-)
     
 - <b>Tableau</b>
 
