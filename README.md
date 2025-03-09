@@ -21,11 +21,10 @@
 
 <h2>🤔 Certifications: </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Google Advanced Data Analytics](https://coursera.org/share/271e7e9dd91f7b3e7add133f7adfe124)
+- [Google Business Intelligence](https://coursera.org/share/0d4d44ccbc84489216b101b0a23292fa)
+- [Google Data Analytics](https://coursera.org/share/da490d9269606c1e8f17c38df6f39458)
+
 
 <h2> 🤳 Connect with me:</h2>
 
