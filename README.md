@@ -11,6 +11,7 @@
 - <b>Tableau</b>
   - [Profitability EDA](https://github.com/Maher-Jaweed/Profitability_EDA/blob/main/README.md)
   - [Churn Rate Dashboard](https://github.com/Maher-Jaweed/Churn-Rate-Dashboard-/blob/main/README.md)
+  - [KPI Dashboard: Call Center](https://github.com/Maher-Jaweed/KPI-Dashboard-Call-Center/blob/main/README.md)
     
 - <b>PowerBI</b>
   - [HR Analytics Dashboard](https://github.com/Maher-Jaweed/HR-Analytics-Dashboard/tree/main)
