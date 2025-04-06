@@ -9,6 +9,7 @@
   - [Bus Breakdowns and Delays Analysis](https://github.com/Maher-Jaweed/Bus-Breakdown-and-Delays-NYC/upload/main)
     
 - <b>Tableau</b>
+  - [Profitability EDA](https://github.com/Maher-Jaweed/Profitability_EDA/blob/main/README.md)
 
 - <b>PowerBI</b>
   - [HR Analytics Dashboard](https://github.com/Maher-Jaweed/HR-Analytics-Dashboard/tree/main)
