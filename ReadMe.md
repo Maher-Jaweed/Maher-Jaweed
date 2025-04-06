@@ -1,5 +1,5 @@
  
-<h1>Hi, I'm Maher! </h1>
+<h1>Welcome! Below are examples that demonstrate my proficiency with each tool! </h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
