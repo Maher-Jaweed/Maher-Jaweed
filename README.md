@@ -12,6 +12,7 @@
 
 - <b>PowerBI</b>
   - [HR Analytics Dashboard](https://github.com/Maher-Jaweed/HR-Analytics-Dashboard/tree/main)
+  - [Data Professional Survey Breakdown](https://github.com/Maher-Jaweed/Data-Professional-Survey-Breakdown/tree/main)
 
 
   
