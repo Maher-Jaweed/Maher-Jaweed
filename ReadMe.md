@@ -21,7 +21,7 @@
   
 - <b>SQL</b>
   - [World Life Expectancy EDA](https://github.com/Maher-Jaweed/World-Life-Expectancy-EDA)
-  - [US HouseHold Income EDA] 
+  - [US HouseHold Income EDA](https://github.com/Maher-Jaweed/US-HouseHold-Income-EDA)
 
 - <b>Python</b>
   
