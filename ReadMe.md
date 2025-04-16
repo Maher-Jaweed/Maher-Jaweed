@@ -3,14 +3,20 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
+ - [DCF: Airbnb]
+ 
+
+
+<h2>🏫 Tool Proficiency Projects :</h2>
+
 - <b>Excel</b>
-  - [DCF Valuation of Airbnb](https://github.com/Maher-Jaweed/DCF-Valuation-Airbnb)
-  - [US Debt Tracker](https://github.com/Maher-Jaweed/US-Debt-Tracker-)
   - [Bus Breakdowns and Delays Analysis](https://github.com/Maher-Jaweed/Bus-Breakdown-and-Delays-NYC)
+  - [US Debt Tracker](https://github.com/Maher-Jaweed/US-Debt-Tracker-)
+ 
     
 - <b>Tableau</b>
-  - [Profitability EDA](https://github.com/Maher-Jaweed/Profitability_EDA/blob/main/README.md)
   - [Churn Rate Dashboard](https://github.com/Maher-Jaweed/Churn-Rate-Dashboard-/blob/main/README.md)
+  - [Profitability EDA](https://github.com/Maher-Jaweed/Profitability_EDA/blob/main/README.md)
   - [KPI Dashboard: Call Center](https://github.com/Maher-Jaweed/KPI-Dashboard-Call-Center/blob/main/README.md)
     
 - <b>PowerBI</b>
@@ -23,7 +29,7 @@
 
 - <b>Python</b>
   
-<h2>🤔 Certifications: </h2>
+<h2>📚 Certifications: </h2>
 
 - [Google Advanced Data Analytics](https://coursera.org/share/271e7e9dd91f7b3e7add133f7adfe124)
 - [Google Business Intelligence](https://coursera.org/share/0d4d44ccbc84489216b101b0a23292fa)
