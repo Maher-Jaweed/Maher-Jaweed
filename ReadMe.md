@@ -6,7 +6,7 @@
 - <b>Excel</b>
   - [DCF Valuation of Airbnb](https://github.com/Maher-Jaweed/DCF-Valuation-Airbnb)
   - [US Debt Tracker](https://github.com/Maher-Jaweed/US-Debt-Tracker-)
-  - [Bus Breakdowns and Delays Analysis](https://github.com/Maher-Jaweed/Bus-Breakdown-and-Delays-NYC/upload/main)
+  - [Bus Breakdowns and Delays Analysis](https://github.com/Maher-Jaweed/Bus-Breakdown-and-Delays-NYC)
     
 - <b>Tableau</b>
   - [Profitability EDA](https://github.com/Maher-Jaweed/Profitability_EDA/blob/main/README.md)
