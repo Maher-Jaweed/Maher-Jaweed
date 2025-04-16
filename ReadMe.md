@@ -16,12 +16,10 @@
 - <b>PowerBI</b>
   - [HR Analytics Dashboard](https://github.com/Maher-Jaweed/HR-Analytics-Dashboard/tree/main)
   - [Data Professional Survey Breakdown](https://github.com/Maher-Jaweed/Data-Professional-Survey-Breakdown/tree/main)
-
-
   
 - <b>SQL</b>
-  - [World Life Expectancy EDA](https://github.com/Maher-Jaweed/World-Life-Expectancy-EDA)
-  - [US HouseHold Income EDA](https://github.com/Maher-Jaweed/US-HouseHold-Income-EDA)
+  - [World Life Expectancy Cleaning/EDA](https://github.com/Maher-Jaweed/World-Life-Expectancy-EDA)
+  - [US HouseHold Income Cleaning/EDA/Automation](https://github.com/Maher-Jaweed/US-HouseHold-Income-EDA)
 
 - <b>Python</b>
   
