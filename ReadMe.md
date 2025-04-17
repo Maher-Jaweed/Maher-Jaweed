@@ -31,6 +31,7 @@
   
 <h2>📚 Certifications: </h2>
 
+- AWS Certified Cloud Practitioner (Coming Soon)
 - [Google Advanced Data Analytics](https://coursera.org/share/271e7e9dd91f7b3e7add133f7adfe124)
 - [Google Business Intelligence](https://coursera.org/share/0d4d44ccbc84489216b101b0a23292fa)
 - [Google Data Analytics](https://coursera.org/share/da490d9269606c1e8f17c38df6f39458)
