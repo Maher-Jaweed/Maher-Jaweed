@@ -5,7 +5,7 @@
 
  - [DCF: Airbnb](https://github.com/Maher-Jaweed/US-Debt-Tracker-)
  - [B2B Sales and Customer Insight ](https://www.kaggle.com/code/bahadir23/b2b-sales-and-customer-insight-analysis/input)
- - [CRM Sales Pipeline](https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset)
+ - [CRM Sales Pipeline](https://github.com/Maher-Jaweed/CRM_Sales_Pipeline)
  
 
 
