@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
- - [DCF Valuation of Airbnb, Inc. – Strategic Forecast & Investment Analysis](https://github.com/Maher-Jaweed/US-Debt-Tracker-)
+ - [DCF Valuation of Airbnb, Inc. – Strategic Forecast & Investment Analysis](https://github.com/Maher-Jaweed/DCF-Valuation-of-Airbnb-Inc.-Strategic-Forecast-Investment-Analysis)
  - [CRM Sales Pipeline  – B2B Computer Hardware Sales Analysis](https://github.com/Maher-Jaweed/CRM_Sales_Pipeline)
  - [Bank Customer Churn – Behavioral Segmentation and Retention Analysis](https://github.com/Maher-Jaweed/Bank-Customer-Churn-Behavioral-Segmentation-and-Retention-Analysis)
 
