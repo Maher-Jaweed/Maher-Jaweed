@@ -3,9 +3,9 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
- - [DCF: Airbnb](https://github.com/Maher-Jaweed/US-Debt-Tracker-)
- - [CRM Sales Pipeline](https://github.com/Maher-Jaweed/CRM_Sales_Pipeline)
- - [B2B Sales and Customer Insight ](https://www.kaggle.com/code/bahadir23/b2b-sales-and-customer-insight-analysis/input)
+ - [DCF Valuation of Airbnb, Inc. – Strategic Forecast & Investment Analysis](https://github.com/Maher-Jaweed/US-Debt-Tracker-)
+ - [CRM Sales Pipeline  – B2B Computer Hardware Sales Analysis](https://github.com/Maher-Jaweed/CRM_Sales_Pipeline)
+ - [Bank Customer Churn – Behavioral Segmentation and Retention Analysis](https://github.com/Maher-Jaweed/Bank-Customer-Churn-Behavioral-Segmentation-and-Retention-Analysis)
 
 
 <h2>🏫 Tool Proficiency Projects :</h2>
