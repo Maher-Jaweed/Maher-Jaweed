@@ -28,6 +28,12 @@
   - [World Life Expectancy Cleaning_EDA](https://github.com/Maher-Jaweed/World-Life-Expectancy-EDA)
   - [US HouseHold Income Cleaning_EDA_Automation](https://github.com/Maher-Jaweed/US-HouseHold-Income-EDA)
 
+- <b>R</b>
+  - TBA
+
+- <b>Python</b>
+  - TBA
+
   
 <h2>📚 Certifications: </h2>
 
