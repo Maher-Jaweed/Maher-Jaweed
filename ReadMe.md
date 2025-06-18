@@ -29,10 +29,12 @@
   - [US HouseHold Income Cleaning_EDA_Automation](https://github.com/Maher-Jaweed/US-HouseHold-Income-EDA)
 
 - <b>R</b>
-  - TBA
+  - (Coming Soon)
 
 - <b>Python</b>
-  - TBA
+  - [Movie Genres Analysis](https://github.com/Maher-Jaweed/US-HouseHold-Income-EDA) 
+  - [Food Marketing Analysis](https://github.com/Maher-Jaweed/US-HouseHold-Income-EDA)
+
 
   
 <h2>📚 Certifications: </h2>
