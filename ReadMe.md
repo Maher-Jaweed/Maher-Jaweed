@@ -28,7 +28,7 @@
 
 - <b>Python</b>
   - [Movie Genres Analysis](https://github.com/Maher-Jaweed/US-HouseHold-Income-EDA) 
-  - [Food Marketing Analysis](https://github.com/Maher-Jaweed/US-HouseHold-Income-EDA)
+  - [Food Marketing Analysis](https://github.com/Maher-Jaweed/Food_Marketing_Data_Analysis/tree/main)
 
 
   
