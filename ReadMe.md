@@ -27,8 +27,8 @@
   - [US HouseHold Income Cleaning_EDA_Automation](https://github.com/Maher-Jaweed/US-HouseHold-Income-EDA)
 
 - <b>Python</b>
-  - [Movie Genres Analysis](https://github.com/Maher-Jaweed/US-HouseHold-Income-EDA) 
   - [Food Marketing Analysis](https://github.com/Maher-Jaweed/Food_Marketing_Data_Analysis/tree/main)
+  - [Movie Genres Analysis](https://github.com/Maher-Jaweed/Movie_Genres_Data_Analysis) 
 
 
   
