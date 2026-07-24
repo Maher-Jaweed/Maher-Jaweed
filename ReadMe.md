@@ -2,7 +2,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - [Roadside Revenue Assurance & Billing Control System](https://github.com/Maher-Jaweed/Roadside-Revenue-Assurance-Billing-Control-System/tree/main)
-- [Sales Contract & Customer Rebate Management Analysis](https://github.com/Maher-Jaweed/CRM_Sales_Pipeline)
+- [Sales Contract & Customer Rebate Management Analysis]([https://github.com/Maher-Jaweed/CRM_Sales_Pipeline](https://github.com/Maher-Jaweed/Sales_Contract_-_Customer_Rebate_Management_Analysis/tree/main))
 - [DCF Valuation of Airbnb, Inc. – Strategic Forecast & Investment Analysis](https://github.com/Maher-Jaweed/DCF-Valuation-of-Airbnb-Inc.-Strategic-Forecast-Investment-Analysis)
 - [Bank Customer – Churn Behavioral Segmentation & Retention Analysis](https://github.com/Maher-Jaweed/Bank-Customer-Churn-Behavioral-Segmentation-and-Retention-Analysis)
 - [CRM Sales Pipeline  – B2B Computer Hardware Sales Analysis](https://github.com/Maher-Jaweed/CRM_Sales_Pipeline)
