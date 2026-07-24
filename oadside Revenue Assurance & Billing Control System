@@ -1,0 +1,65 @@
+# Roadside Revenue Assurance & Billing Control System
+
+This analysis was conducted to evaluate the accuracy of roadside assistance billing operations by validating service events against customer contracts, identifying billing exceptions, measuring revenue leakage, monitoring invoice and SAP controls, and reconciling customer payments across multiple roadside assistance programs.
+
+## 1. Revenue Assurance & Billing Validation
+
+Analysis revealed that the largest sources of billing discrepancies originated from contract validation and incomplete operational records. Common billing exceptions included:
+
+* Missing Membership IDs preventing invoice eligibility
+* Incorrect Client Codes resulting in contract mismatches
+* Missing Obligor information impacting billing accuracy
+* Contract Limit Exceeded events that were deemed non-billable
+* Duplicate roadside events creating potential double-billing risks
+* Rate mismatches between contract pricing and recorded charges
+* Missing SAP documentation delaying invoice processing
+* Short-paid invoices and unapplied customer payments affecting cash reconciliation
+
+These findings demonstrate that revenue assurance depends heavily on accurate contract validation, operational data quality, and billing controls before invoices are released to customers.
+
+## 2. Operational & Billing Performance
+
+The roadside billing portfolio consisted of over 5,000 simulated roadside assistance events processed across six customer programs, including OEM, insurance, warranty, fleet, and motor club clients.
+
+Operational analysis included:
+
+* Expected Revenue versus Final Billable Revenue
+* Revenue Leakage resulting from non-billable or incomplete events
+* Billing Variance between expected and recorded charges
+* Invoice Aging and Days-to-Invoice
+* Open Accounts Receivable
+* Customer Payment Reconciliation
+
+The analysis showed that automated billing validation significantly improves invoice accuracy while reducing manual review and revenue loss caused by billing exceptions.
+
+## 3. Customer Program & Service Performance
+
+Distinct performance differences were observed across customer programs and roadside service types.
+
+Key findings included:
+
+* Certain customer programs generated disproportionately higher billing exception rates due to contract configuration and eligibility requirements.
+* Tow services accounted for the largest share of billable revenue while also generating the highest revenue leakage because of mileage-based billing and contract pricing differences.
+* Daily invoice customers demonstrated faster billing cycles than weekly invoice customers.
+* Regional and program-specific trends suggested that customer contract structure has a significant impact on billing efficiency and invoice turnaround times.
+
+These differences highlight opportunities to improve billing performance through customer-specific contract management and standardized operational procedures.
+
+## 4. Invoice, SAP & Cash Application Controls
+
+The analysis identified several important financial control processes throughout the billing lifecycle.
+
+Invoice and reconciliation monitoring included:
+
+* Invoice preparation and approval tracking
+* SAP document validation and posting status
+* Payment reconciliation against issued invoices
+* Identification of short-paid and unapplied customer payments
+* Open balance monitoring and accounts receivable aging
+* Reconciliation status across customer programs
+
+These controls provide visibility into the complete billing process, allowing Accounting, Operations, and Controlling teams to quickly identify outstanding balances, documentation gaps, and reconciliation issues before they impact financial reporting.
+
+## Conclusion
+
+The analysis demonstrates how revenue assurance combines operational data, customer contracts, billing controls, invoice management, SAP documentation, and cash application into a single financial oversight process. By identifying billing exceptions early, validating contract compliance, monitoring invoice accuracy, and improving payment reconciliation, organizations can reduce revenue leakage, strengthen internal controls, accelerate billing cycles, and improve collaboration between Operations, Accounting, Finance, and Controlling.
